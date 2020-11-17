@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Re-elect Judge Jeff Davis`,
-    description: `Judge Jeff Davis for Wisconin Court of Appeals Disctrict II`,
+    title: `Re-elect Judge Greg Gill, Jr.`,
+    description: `Judge Greg Gill for Wisconin Circuit Court`,
     author: `@tekjoe`,
     siteURL: "localhost:8000",
   },
