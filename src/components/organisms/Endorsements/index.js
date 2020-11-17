@@ -82,7 +82,7 @@ const Endorsements = () => {
                 <li>Joe Ramirez</li>
                 <li>Joe Ramirez</li>
                 <li>Joe Ramirez</li>
-                <li>Joe Ramirez</li>>
+                <li>Joe Ramirez</li>
               </EndorsementsList>
             </Column>
             <Column>
@@ -126,7 +126,7 @@ const Endorsements = () => {
                 <li>Joe Ramirez</li>
                 <li>Joe Ramirez</li>
                 <li>Joe Ramirez</li>
-                <li>Joe Ramirez</li>>
+                <li>Joe Ramirez</li>
               </EndorsementsList>
             </Column>
           </EndorsementsGrid>
