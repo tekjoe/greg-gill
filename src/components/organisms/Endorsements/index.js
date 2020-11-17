@@ -69,40 +69,29 @@ const Endorsements = () => {
           <EndorsementsGrid>
             <Column>
               <EndorsementsList>
-                <li>Chief Justice Patience Roggensack</li>
-                <li>Justice David Prosser (Ret'd)</li>
-                <li>Justice Annette Ziegler</li>
-                <li>Hon. Lisa Neubauer</li>
-                <li>Hon. Paul Reilly</li>
-                <li>Hon. Bill Brash</li>
-                <li>Hon. Kitty Brennan (Ret'd)</li>
-                <li>Hon. Joe Donald</li>
-                <li>Hon. Tim Dugan</li>
+                <li>Joe Ramirez</li>
+                <li>Joe Ramirez</li>
+                <li>Joe Ramirez</li>
+                <li>Joe Ramirez</li>
+                <li>Joe Ramirez</li>
               </EndorsementsList>
             </Column>
             <Column>
               <EndorsementsList>
-                <li>Hon. Maxine White</li>
-                <li>Hon. Mike Fitzpatrick</li>
-                <li>Hon. Joanne Kloppenburg</li>
-                <li>Hon. Jennifer Nashold</li>
-                <li>Hon. Brian Blanchard</li>
-                <li>Hon. Rachel Graham</li>
-                <li>Hon. Tom Hruz</li>
-                <li>Hon. Mark Seidl</li>
-                <li>Hon. Lisa Stark</li>
+                <li>Joe Ramirez</li>
+                <li>Joe Ramirez</li>
+                <li>Joe Ramirez</li>
+                <li>Joe Ramirez</li>
+                <li>Joe Ramirez</li>>
               </EndorsementsList>
             </Column>
             <Column>
               <EndorsementsList>
-                <li>Hon. Andy Gonring</li>
-                <li>Hon. Pat Haughney (Ret'd)</li>
-                <li>Hon. Jim Kieffer (Ret'd)</li>
-                <li>Hon. Ralph Ramirez</li>
-                <li>Hon. Ellen Brostrom</li>
-                <li>Hon. Dave Swanson</li>
-                <li>Hon. Patrick Fiedler (Ret'd)</li>
-                <li>Mayor Shawn Reilly</li>
+                <li>Joe Ramirez</li>
+                <li>Joe Ramirez</li>
+                <li>Joe Ramirez</li>
+                <li>Joe Ramirez</li>
+                <li>Joe Ramirez</li>
               </EndorsementsList>
             </Column>
           </EndorsementsGrid>
@@ -115,19 +104,29 @@ const Endorsements = () => {
           <EndorsementsGrid>
             <Column>
               <EndorsementsList>
-                <li>Atty. Tom Doerr</li>
-                <li>Atty. Paul Jones</li>
+                <li>Joe Ramirez</li>
+                <li>Joe Ramirez</li>
+                <li>Joe Ramirez</li>
+                <li>Joe Ramirez</li>
+                <li>Joe Ramirez</li>
               </EndorsementsList>
             </Column>
             <Column>
               <EndorsementsList>
-                <li>Atty. Tina Jones</li>
-                <li>Atty. Jay Starrett</li>
+                <li>Joe Ramirez</li>
+                <li>Joe Ramirez</li>
+                <li>Joe Ramirez</li>
+                <li>Joe Ramirez</li>
+                <li>Joe Ramirez</li>
               </EndorsementsList>
             </Column>
             <Column>
               <EndorsementsList>
-                <li>Atty. Tonit Calaway</li>
+                <li>Joe Ramirez</li>
+                <li>Joe Ramirez</li>
+                <li>Joe Ramirez</li>
+                <li>Joe Ramirez</li>
+                <li>Joe Ramirez</li>>
               </EndorsementsList>
             </Column>
           </EndorsementsGrid>
